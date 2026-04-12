@@ -1,0 +1,19 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+button {
+  border-radius: 8px;
+}
+
+input {
+  border-radius: 8px;
+}
+
+address {
+  margin-bottom: 0;
+}
